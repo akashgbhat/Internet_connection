@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding-top: 50px;
+  }
+
+  h1 {
+    color: #333;
+  }
+
+  .status {
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+
+  .online {
+    color: #4CAF50;
+    background-color: #DFF2BF;
+  }
+
+  .offline {
+    color: #F44336;
+    background-color: #FFCDD2;
+  }
